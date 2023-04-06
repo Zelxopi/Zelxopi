@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1>Hello there 👋 I'm @Zelxopi</h1>
+
+👩‍🎓 Previous experiences in private security, rock climbing and many random things<br />
+👩‍💻 Learning to code at 42<br />
+👾 Enjoying my homelab
+
+⚡️ Fun fact! Did you know you could <ins>accidentally</ins> wipe off most of your git history? I didn't...
 
 <!--
 **Zelxopi/Zelxopi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
